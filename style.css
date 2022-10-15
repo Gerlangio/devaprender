@@ -3,16 +3,15 @@ body {
     font-family: Arial;
 }
 
-h1, h2, h3 {
+h1,h2,h3 {
     font-family: Verdana;
 }
 
 h1 {
-    /*<h1>Título 1</h1>*/
     color: dodgerblue;
-	border: solid 1px dodgerblue;
-	/* Alinhamento centralizado */
-	text-align: center;
+    border: solid 1px dodgerblue;
+    /* Alinhamento centralizado */
+    text-align: center;
 }
 
 h2 {
@@ -40,6 +39,7 @@ span {
 span.aviso {
     font-weight: bold;
 }
+
 /**
 @media (max-width: 450px) {
     h1 {
