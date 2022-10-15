@@ -1,18 +1,41 @@
 body {
-    color: midnightblue;
+    /*color: midnightblue;*/
     font-family: Arial;
 }
 
+h1, h2, h3 {
+    font-family: Verdana;
+}
+
 h1 {
-    color: royalblue;
+    /*color: royalblue;*/
+    color: dodgerblue;
 }
 
 h2 {
-    color: green;
+    margin-left: 20px;
+    color: steelblue;
+    /*color: green;*/
 }
 
 h3 {
+    /*color: red;*/
+    color: midnightblue;
+}
+
+p {
+    margin-left: 40px;
+    color: dimgray;
+}
+
+span {
     color: red;
+    font-style: italic;
+    font-weight: bold;
+}
+
+span.aviso {
+    font-weight: bold;
 }
 /**
 @media (max-width: 450px) {
