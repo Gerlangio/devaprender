@@ -8,8 +8,10 @@ h1, h2, h3 {
 }
 
 h1 {
-    /*color: royalblue;*/
     color: dodgerblue;
+	border: solid 1px dodgerblue;
+	/* Alinhamento centralizado */
+	text-align: center;
 }
 
 h2 {
