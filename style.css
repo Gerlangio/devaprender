@@ -8,6 +8,7 @@ h1, h2, h3 {
 }
 
 h1 {
+    /*<h1>Título 1</h1>*/
     color: dodgerblue;
 	border: solid 1px dodgerblue;
 	/* Alinhamento centralizado */
